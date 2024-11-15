@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": ["Effectization-Studio.Effectization-Instant.Clip"],
+        "paths": ["/path/to/your/appclip/*"]
+      }
+    ]
+  }
+}
